@@ -1,0 +1,25 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+.page_title {
+	text-align: center;
+}
+.contents {
+	width: 800px;
+}
+.list {
+	margin: 0;
+	padding: 0;
+	border-right: 1px solid #909090;
+	width: 150px;
+	height: 100%;
+	float: left;
+}
+.list ol {
+	margin-left: 20px;
+}
+ol,hr {
+	margin: 0;
+	padding: 0;
+}
